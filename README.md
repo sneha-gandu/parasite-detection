@@ -91,11 +91,8 @@ python predict.py --image path/to/microscope_image.jpg
 | F1-Score (macro avg) | 93.3% |
 | Improvement over manual | ~40% |
 
-### Confusion Matrix
-![Confusion Matrix](outputs/plots/confusion_matrix.png)
-
-### Training Curves
-![Training Curves](outputs/plots/training_curves.png)
+![Confusion Matrix](confusion_matrix.png)
+![Training Curves](training_curves.png)
 
 ---
 
